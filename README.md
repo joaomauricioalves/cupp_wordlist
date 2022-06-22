@@ -27,7 +27,7 @@ Agora voltando ao cupp, uma recomendação para instalação, caso não use o Ka
 https://github.com/Mebus/cupp
 
 
-Para a criação de uma senha, algumas pessoas tomam por base critérios que auxiliem a memória como: nomes de pessoas, datas, números que remetem ao telefone, lugares entre outros exemplos. O CUPP entre outras opções, pode ajuda no repertório de quem estuda ou trabalha e que em determinado cenário precisa quebrar uma senha, levando em consideração o alvo em potencial possui chances de ter senhas frágeis.
+Para a criação de uma senha, algumas pessoas tomam por base critérios que auxiliem a memória, como: nomes de pessoas, datas, números que remetem ao telefone, lugares entre outros exemplos. O CUPP entre outras opções, pode ajuda no repertório de quem estuda ou trabalha e que em determinado cenário precisa quebrar uma senha, levando em consideração o alvo em potencial possui chances de ter senhas frágeis.
 
 <h2>Uma forma de criar uma wordlist</h2>
 
