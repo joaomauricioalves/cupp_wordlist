@@ -4,9 +4,10 @@
 
 <h4>Atenção</h4>
 
-Antes de tudo, faço questão de frisar quanto a responsabilidade dos ensinamentos aqui. O uso incorreto dos conteúdos deste texto, podem gerar consequências, pois há uma linha muito tênue entre o mundo educacional e a ilegalidade. Não é raro dentro de atividades maliciosas se usem dessas informações para a prática de invasão de privacidade, algo que pode acarretar a conclusões de nível jurídico, no Brasil e no mundo. 
+Antes de tudo, faço questão de frisar quanto a responsabilidade dos ensinamentos aqui. O uso incorreto dos conteúdos deste texto, podem gerar consequências, pois há uma linha desse contexto, muito tênue entre o mundo educacional e a ilegalidade. Não é raro dentro de atividades maliciosas que se usem dessas informações para a prática de invasão de privacidade, roubo de informações entre outros exemplos que podem acarretar a conclusões de nível jurídico e dano a terceiros, tanto no Brasil e como no mundo. 
 
-Desta forma aqui neste texto, tenho o voltado o perfil para atividade acadêmica e profissional, trarei uma das formas mais fáceis de criar uma wordlist, por favor, sou totalmente contra o uso indiscriminado da técnica para agir contra pessoas, sendo assim, cuidado!
+Desta forma aqui neste texto, tenho o voltado o perfil para atividade acadêmica e profissional, trazendo uma das formas mais fáceis de criar uma wordlist. 
+Por favor, o que você fizer é por sua conta e risco, sendo assim, cuidado!
 
 <h4>Sobre</h4>
 
