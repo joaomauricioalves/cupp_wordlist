@@ -6,6 +6,7 @@
 
 Antes de tudo, faço questão de frisar quanto a responsabilidade dos ensinamentos aqui. O uso incorreto dos conteúdos deste texto, podem gerar consequências, pois há uma linha muito tênue entre o mundo educacional e a ilegalidade. Não é raro dentro de atividades maliciosas se usem dessas informações para a prática de invasão de privacidade, algo que pode acarretar a conclusões de nível jurídico, no Brasil e no mundo. Desta forma aqui neste texto, tenho o voltado o perfil para atividade acadêmica e profissional, sendo totalmente contra o uso indiscriminado da técnica para agir contra pessoas, sendo assim, cuidado!
 
+<h4>Sobre</h4>
 
 Sendo uma ferramenta usada para a criação de wordlists, pode ser de grande ajuda para o estudo em rede de computadores, principalmente como um instrumento de auxílio na prática de Brute Force, como por exemplo na quebra de redes wifi com WPA2 ou para acesso a um simples formulário de uma página.
 
