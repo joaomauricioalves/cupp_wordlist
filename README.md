@@ -10,8 +10,26 @@ Para você que não tem o Kali Linux instalado e não quer dedicar um tempo para
 
 https://www.kali.org/get-kali/#kali-virtual-machines
 
-''''
+Para você que não tem o Kali Linux instalado, mas nesse pequeno momento deseja instalar:
 
+https://www.kali.org/get-kali/
+
+Agora voltando ao cupp, uma recomendação para instalação pode ser pela descrição do repositório oficial aqui no github:
+
+https://github.com/Mebus/cupp
+
+
+Para a criação de uma senha, algumas pessoas tomam por base critérios que auxiliem a memória como: nomes de pessoas, datas, números que remetem ao telefone, lugares entre outros exemplos. O CUPP entre outras opções, pode ajuda no repertório de quem estuda ou trabalha e que em determinado cenário precisa quebrar uma senha, levando em consideração o alvo em potencial possui chances de ter senhas frágeis.
+
+```
+python3 cupp.py -i
+```
+
+ou em situação de está no uso da VM 
+
+```
+cupp -i
+```
 
 
 
