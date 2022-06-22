@@ -31,7 +31,9 @@ Para a criação de uma senha, algumas pessoas tomam por base critérios que aux
 
 <h2>Uma forma de criar uma wordlist</h2>
 
-Uma das principais características apresentadas aqui, tem a ver com a máxima coleta de dados sobre o alvo, que 
+Uma das principais características apresentadas aqui, tem a ver com a máxima coleta de dados sobre o alvo, pois o CUPP pode criar uma wordlist personalizada e isso pode ser de grande ajuda, porque na medida que a wordlist precisa de mais palavras, maior será o tamanho do arquivo, que em consequência, afetará diretamente na agilidade do processo.
+
+Em mãos dos dados do alvo, posso simplesmente digitar no terminal o seguinte comando:
 
 ```
 python3 cupp.py -i
@@ -42,6 +44,9 @@ ou em situação de está no uso da VM
 ```
 cupp -i
 ```
+
+Ao digitar 
+
 
 ![image](https://user-images.githubusercontent.com/39026922/175135515-9f545e85-b867-45a4-841e-69b1c51ebbce.png)
 
