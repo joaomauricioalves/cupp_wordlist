@@ -46,8 +46,19 @@ ou em situação de está usando a versão instalada da VM
 cupp -i
 ```
 
+
 Ao digitar você verá algo semelhante a figura abaixo, algo que você deve preencher com os dados que você sabe sobre o alvo:
 
 ![cupp1](https://user-images.githubusercontent.com/39026922/175141784-f18f81e2-b112-44f3-8718-0f780d0db01c.png)
+
+Os dados são fictícios. 
+
+Para o cupp, quanto mais detalhes sobre dados você acrescentar, maior o tamanho da wordlist, dessa forma, para este exemplo, não acrescentei tudo, apenas para efeito de conhecimento.
+
+![image](https://user-images.githubusercontent.com/39026922/175144006-2047e036-c9a7-46c8-b4b5-c04c5c181ebf.png)
+
+
+Ao final ele salva em um arquivo .txt e a partir daí isso pode facilitar a vida para muitas coisas.
+
 
 
