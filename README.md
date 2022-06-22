@@ -11,7 +11,7 @@ Por favor, o que você fizer é por sua conta e risco, sendo assim, cuidado!
 
 <h4>Sobre</h4>
 
-Como ferramenta usada para a criação de wordlists, o CUPP pode ser de grande ajuda para o estudo em rede de computadores, principalmente como um instrumento de auxílio na prática de Brute Force, como por exemplo na quebra de redes wifi com WPA2 ou para acesso a um simples formulário de uma página.
+Como ferramenta usada para a criação de wordlists, o CUPP pode ser de grande ajuda para o estudo em rede de computadores, principalmente no auxílio da prática de Brute Force, dentro do exemplo da quebra de redes wifi com WPA2 ou para acesso a um simples formulário de uma página.
 
 Se você usa o Kali Linux, principalmente em máquina virtual entregue pelos desenvolvedores, o cupp já está instalado.
 
@@ -23,12 +23,12 @@ Para você que não tem o Kali Linux instalado, mas nesse pequeno momento deseja
 
 https://www.kali.org/get-kali/
 
-Agora voltando ao cupp, uma recomendação para instalação, caso não use o Kali Linux que já vem com ele instalado e escolha a opção de instalar do zero, posso sugerir que leia descrição do repositório oficial aqui no github:
+Agora voltando ao cupp, uma recomendação para instalação, caso não use o Kali Linux que já vem com ele instalado e tenha escolhido a opção de instalar do zero, posso sugerir que leia descrição do repositório oficial aqui no github:
 
 https://github.com/Mebus/cupp
 
 
-Para a criação de uma senha, algumas pessoas tomam por base critérios que auxiliem a memória, como: nomes de pessoas, datas, números que remetem ao telefone, lugares entre outros exemplos. O CUPP pode ajudar no repertório de quem estuda ou trabalha, pois na vida pode acontecer cenários onde você não tenha a chave para abrir algo, então precisa quebrar a fechadura.
+Para a criação de uma senha, algumas pessoas tomam por base critérios que auxiliem a memória, como: nomes de pessoas, datas, números de telefone, lugares entre outros exemplos. O CUPP pode ajudar no repertório de quem estuda ou trabalha, pois na vida podem acontecer cenários onde você não tenha a chave para abrir algo, então precisa quebrar a fechadura.
 
 <h2>Uma forma de criar uma wordlist</h2>
 
@@ -40,16 +40,14 @@ Em mãos dos dados do alvo, posso simplesmente digitar no terminal o seguinte co
 python3 cupp.py -i
 ```
 
-ou em situação de está no uso da VM 
+ou em situação de está usando a versão instalada da VM
 
 ```
 cupp -i
 ```
 
-Ao digitar 
+Ao digitar você verá algo semelhante a figura abaixo, algo que você deve preencher com os dados que você sabe sobre o alvo:
 
-
-![image](https://user-images.githubusercontent.com/39026922/175135515-9f545e85-b867-45a4-841e-69b1c51ebbce.png)
-
+![cupp1](https://user-images.githubusercontent.com/39026922/175141784-f18f81e2-b112-44f3-8718-0f780d0db01c.png)
 
 
