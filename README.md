@@ -36,9 +36,11 @@ Para a criação de uma senha, algumas pessoas tomam por base critérios que aux
 
 <h2>Uma forma de criar uma wordlist</h2>
 
-Uma das principais características apresentadas aqui tem a ver com a máxima coleta de dados sobre o alvo,  algo recomendável quando pensamos em eficiência. O CUPP pode criar uma wordlist personalizada dentro do contexto dos dados coletados, justamente aqueles ligados com a facilidade da memorização. Se o alvo realmente utilizar de poucos cuidados como uma senha, o que para exemplificar pode-se descrever algo em torno de números, letras repetidas e com relação ao nome de alguém importante na sua vida e um tamanho de 8 digitos por exemplo, com a coleta de dados efetuada e nela possua tais pistas, o cupp pode auxiliar para tenha uma maior chance de encontrar o resultado almejado. 
+Uma das principais características apresentadas aqui tem a ver com a máxima coleta de dados sobre o alvo,  algo recomendável quando pensamos em eficiência. O CUPP pode criar uma wordlist personalizada dentro do contexto dos dados coletados, justamente aqueles ligados com a facilidade da memorização. 
 
-Agora, nem tudo é tão belo quanto parece, pois de acordo que a wordlist precisa de mais palavras, maior será o tamanho do arquivo, que em consequência, afetará diretamente na agilidade do processo. Imagine uma wordlist com um arquivo de texto na escala dos GB de tamanho, sendo usado em brute force, a título de exemplo, quanto maior o arquivo, maior poder computacional, maior o tempo para tentar quebrar possível senha, pense nisso.
+Se o alvo realmente utilizar de poucos cuidados com a sua senha, o que para exemplificar descrevo como algo em torno de números, letras repetidas ou até com relação ao nome de alguém importante na sua vida e um tamanho de até 8 digitos por exemplo, com a coleta de dados efetuada e nela em posse de tais pistas, o cupp pode auxiliar para que tenha uma maior chance de encontrar o resultado almejado. 
+
+Agora, nem tudo é tão belo quanto parece, pois uma wordlist com mais palavras, consequentemente maior será o tamanho do arquivo, logo afetará diretamente na agilidade do processo. Imagine uma wordlist com um arquivo de texto na escala dos GB de tamanho, sendo usado em brute force, a título de exemplo, quanto maior o arquivo, maior poder computacional, maior o tempo para tentar quebrar possível senha, pense nisso.
 
 <h4>Processo</h4>
 
