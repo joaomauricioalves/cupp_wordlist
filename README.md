@@ -4,14 +4,14 @@
 
 <h4>Atenção</h4>
 
-Antes de tudo, faço questão de frisar quanto a responsabilidade dos ensinamentos aqui. O uso incorreto dos conteúdos deste texto, podem gerar consequências, pois há uma linha desse contexto, muito tênue entre o mundo educacional e a ilegalidade. Não é raro dentro de atividades maliciosas que se usem dessas informações para a prática de invasão de privacidade, roubo de informações entre outros exemplos que podem acarretar a conclusões de nível jurídico e dano a terceiros, tanto no Brasil e como no mundo. 
+Antes de tudo, faço questão de frisar quanto a responsabilidade dos ensinamentos aqui. O uso incorreto dos conteúdos deste texto, podem gerar consequências, pois há uma linha desse contexto muito tênue entre o mundo educacional e a ilegalidade. Não é raro que pessoas usem essas informações para atividades maliciosas, dentro da prática de invasão de privacidade, roubo de informações entre outros exemplos, todos com resultados que podem carretar em problemas jurídicos e danos a terceiros, tanto no Brasil e como no mundo. 
 
-Desta forma aqui neste texto, tenho o voltado o perfil para atividade acadêmica e profissional, trazendo uma das formas mais fáceis de criar uma wordlist. 
+Dessa forma, tenho o voltado o perfil para atividade acadêmica e profissional, trazendo uma das formas mais fáceis de criar uma wordlist. 
 Por favor, o que você fizer é por sua conta e risco, sendo assim, cuidado!
 
-<h4>Sobre</h4>
+<h4>Sobre o material</h4>
 
-Como ferramenta usada para a criação de wordlists, o CUPP pode ser de grande ajuda para o estudo em rede de computadores, principalmente no auxílio da prática de Brute Force, dentro do exemplo da quebra de redes wifi com WPA2 ou para acesso a um simples formulário de uma página.
+Como ferramenta usada para a criação de wordlists, o CUPP pode ser de grande ajuda para o estudo na computação, principalmente no auxílio da prática de Brute Force, dentro do exemplo da quebra de redes wifi com WPA2 ou para acesso a um simples formulário de uma página.
 
 Se você usa o Kali Linux, principalmente em máquina virtual entregue pelos desenvolvedores, o cupp já está instalado.
 
@@ -19,20 +19,24 @@ Para você que não tem o Kali Linux instalado e não quer dedicar um tempo para
 
 https://www.kali.org/get-kali/#kali-virtual-machines
 
-Para você que não tem o Kali Linux instalado, mas nesse pequeno momento deseja instalar:
+Para você que não tem o Kali Linux instalado e está curioso para instalar:
 
 https://www.kali.org/get-kali/
 
-Agora voltando ao cupp, uma recomendação para instalação, caso não use o Kali Linux que já vem com ele instalado e tenha escolhido a opção de instalar do zero, posso sugerir que leia descrição do repositório oficial aqui no github:
+Agora para instalação do cupp em outros sistemas operacionais baseados no GNU/Linux, posso sugerir que leia descrição do repositório oficial aqui no github:
 
 https://github.com/Mebus/cupp
 
 
-Para a criação de uma senha, algumas pessoas tomam por base critérios que auxiliem a memória, como: nomes de pessoas, datas, números de telefone, lugares entre outros exemplos. O CUPP pode ajudar no repertório de quem estuda ou trabalha, pois na vida podem acontecer cenários onde você não tenha a chave para abrir algo, então precisa quebrar a fechadura.
+Para a criação de uma senha, algumas pessoas tomam por base critérios que auxiliem na memória, como: nomes de pessoas, datas, números de telefone, lugares entre outros exemplos. O cupp pode ajudar no repertório de quem estuda ou trabalha, pois na vida podem acontecer cenários onde você não tenha a chave para abrir algo, então precisa quebrar a fechadura ou chamar um chaveiro.
 
 <h2>Uma forma de criar uma wordlist</h2>
 
-Uma das principais características apresentadas aqui, tem a ver com a máxima coleta de dados sobre o alvo, pois o CUPP pode criar uma wordlist personalizada e isso pode ser de grande ajuda, porque na medida que a wordlist precisa de mais palavras, maior será o tamanho do arquivo, que em consequência, afetará diretamente na agilidade do processo.
+Uma das principais características apresentadas aqui tem a ver com a máxima coleta de dados sobre o alvo,  algo recomendável quando pensamos em eficiência. O CUPP pode criar uma wordlist personalizada dentro do contexto dos dados do alvo, justamente aqueles ligados com a facilidade da memorização. Se o alvo realmente utilizar de poucos cuidados como uma senha, o que para exemplificar pode-se descrever algo em torno de números, letras repetidas e com relação ao nome de alguém importante na sua vida e um tamanho de 8 digitos por exemplo, com a coleta de dados efetuada e nela possua tais pistas, o cupp pode auxiliar para tenha uma maior chance de encontrar o resultado almejado. 
+
+Agora, nem tudo é tão belo quanto parece, pois de acordo que a wordlist precisa de mais palavras, maior será o tamanho do arquivo, que em consequência, afetará diretamente na agilidade do processo. Imagine uma wordlist com um arquivo de texto na escala dos GB de tamanho, sendo usado em brute force, a título de exemplo, quanto maior o arquivo, maior poder computacional, maior o tempo para tentar quebrar possível senha, pense nisso.
+
+<h4>Processo</h4>
 
 Em mãos dos dados do alvo, posso simplesmente digitar no terminal o seguinte comando:
 
@@ -51,7 +55,7 @@ Ao digitar você verá algo semelhante a figura abaixo, algo que você deve pree
 
 ![cupp1](https://user-images.githubusercontent.com/39026922/175141784-f18f81e2-b112-44f3-8718-0f780d0db01c.png)
 
-Os dados são fictícios. 
+Em efeito de exemplo usei dados fictícios. 
 
 Para o cupp, quanto mais detalhes sobre dados você acrescentar, maior o tamanho da wordlist, dessa forma, para este exemplo, não acrescentei tudo, apenas para efeito de conhecimento.
 
