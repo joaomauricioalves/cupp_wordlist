@@ -13,7 +13,9 @@ Por favor, o que você fizer é por sua conta e risco, sendo assim, cuidado!
 
 <h4>Sobre o material</h4>
 
-Como ferramenta usada para a criação de wordlists, o CUPP pode ser de grande ajuda para o estudo na computação, principalmente no auxílio da prática de Brute Force, dentro do exemplo da quebra de redes wifi com WPA2 ou para acesso a um simples formulário de uma página de login.
+Como ferramenta usada para a criação de wordlists, o cupp pode ser de grande ajuda para o estudo na computação, principalmente no auxílio do método de Brute Force, dentro do exemplo da quebra de redes wifi com WPA2 ou para acesso a um simples formulário de uma página de login.
+
+Para o uso do cupp tenho as seguintes recomendações:
 
 Se você usa o Kali Linux, principalmente em máquina virtual entregue pelos desenvolvedores, o cupp já está instalado.
 
