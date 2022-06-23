@@ -4,7 +4,7 @@
 
 <h4>Atenção</h4>
 
-Antes de tudo, faço questão de frisar quanto a responsabilidade dos ensinamentos. O uso incorreto dos conteúdos deste texto, podem gerar consequências, pois há uma linha desse contexto muito tênue entre o mundo educacional e a ilegalidade. Não é raro que pessoas usem essas informações para atividades maliciosas, dentro da prática de invasão de privacidade, roubo de informações entre outros exemplos, todos com resultados que podem carretar em problemas jurídicos e danos a terceiros, tanto no Brasil e como no mundo. 
+Antes de tudo, faço questão de frisar quanto a responsabilidade dos ensinamentos. O uso incorreto dos conteúdos deste texto, podem gerar consequências, pois há uma linha muito tênue entre o mundo educacional e a ilegalidade. Não é raro que pessoas usem essas informações para atividades maliciosas, dentro da prática de invasão de privacidade, roubo de informações entre outros exemplos, todos com resultados que podem carretar em problemas jurídicos e danos a terceiros, tanto no Brasil e como no mundo. 
 
 Dessa forma, tenho o voltado o perfil para atividade acadêmica e profissional, trazendo uma das formas mais fáceis de criar uma wordlist. 
 Por favor, o que você fizer é por sua conta e risco, sendo assim, cuidado!
